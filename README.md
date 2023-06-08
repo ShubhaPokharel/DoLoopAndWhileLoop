@@ -58,10 +58,13 @@ When we have the starting point, ending point and increment / decrement , we use
 
 For loop and While loop are called entry controlled loops. It means they check the condition first and then they execute the logics. Do While is called exit controlled loop. Exit controlled loop means first it enters into body although the condition is false. In Do - While, it does not check the condition first, body is executed first. In other words, first body is executed, which is inside do block and then it checks the condition.
 
+Minimum occurance is 0 in entry controlled loop(for and while loop). 
 
 # Do While
 
 Do While is also a looping statemnt where the body gets executed first before checking the condition. It is exit controlled looping statement. It means the body gets executed first, checks the condition secondly.So, the body will be executed even though condition is false. WHen the condition is false, the body will be executed only once.
+
+Minimum occurance is 1 in exit controlled loop(Do - While loop).
 
 ## Example:
 
