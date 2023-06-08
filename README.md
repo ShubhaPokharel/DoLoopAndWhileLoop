@@ -1,4 +1,4 @@
-# DoLoopAndWhileLoop
+# DoWhile VS WhileLoop
 
 # While Loop
 
